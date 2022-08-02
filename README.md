@@ -6,6 +6,8 @@
 ###### Lead 
 Dr. Luke K. Davis (@patherlkd) www.drlukekdavis.com
 
+![Alt text](./sample.png?raw=true "What the simulation looks like")
+
 ## How to use this repository
 
 ### Running the examples
