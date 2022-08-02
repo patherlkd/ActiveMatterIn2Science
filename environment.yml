@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.10.4
   - matplotlib=3.5.2
   - numpy=1.22.3
   - scipy=1.8.0
