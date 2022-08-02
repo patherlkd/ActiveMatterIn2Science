@@ -16,7 +16,7 @@ Dr. Luke K. Davis (@patherlkd) www.drlukekdavis.com
 
 2. Wait for the remote server to build the repo *(can take a few moments)*, which will start a new window with the remote jupyter notebook directory.
 
-3. Click `Cell` and then `Run All` (Unless other running instructions specified).
+3. Click `Run` at the top left and then `Run All Cells` (Unless other running instructions specified).
 
 4. Scroll down to the last cell and run it as per instructions. Click the ``Run Interact`` button to run a simulation.
 
