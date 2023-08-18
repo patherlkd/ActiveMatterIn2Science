@@ -1,6 +1,6 @@
 # ActiveMatterIn2Science
 
-https://colab.research.google.com/github/patherlkd/ActiveMatterIn2Science/blob/main/VicsekModelCode-binder.ipynb
+Click here for direct access: https://colab.research.google.com/github/patherlkd/ActiveMatterIn2Science/blob/main/VicsekModelCode-binder.ipynb
 
 ###### Lead 
 Dr. Luke K. Davis (@patherlkd) www.drlukekdavis.com
