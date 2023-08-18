@@ -1,7 +1,6 @@
 # ActiveMatterIn2Science
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patherlkd/ActiveMatterIn2Science/HEAD?labpath=%2FVicsekModelCode-binder.ipynb)
-
+https://colab.research.google.com/github/patherlkd/ActiveMatterIn2Science/blob/main/VicsekModelCode-binder.ipynb
 
 ###### Lead 
 Dr. Luke K. Davis (@patherlkd) www.drlukekdavis.com
