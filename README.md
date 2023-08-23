@@ -26,7 +26,7 @@ Note: The simulations are not instantaneous, your are running full-fledged activ
 
 ### Guiding questions/pointers to help you explore the active matter simulations
 
-The main thing is for you to explore the system, code, and setup to get a feel of running computational simulations. So, follow you curiosity. If you want some nudges of what to look at then see below.
+The main thing is for you to explore the system, code, and setup to get a feel of running computational simulations. So, follow your curiosity. If you want some nudges of what to look at then see below.
 
 These questions/pointers typically get more difficult as you progress through them.
 
