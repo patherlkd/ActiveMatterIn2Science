@@ -28,7 +28,7 @@ Note: The simulations are not instantaneous, your are running full-fledged activ
 
 The main thing is for you to explore the system, code, and setup to get a feel of running computational simulations. So, follow you curiosity. If you want some nudges of what to look at then see below.
 
-This questions/pointers typically get more difficult as you progress through them.
+These questions/pointers typically get more difficult as you progress through them.
 
 + For each slider, investigate what they do [check at least three values] and how they affect the runtime of the simulation.
 + How can I get all the arrows aligned? There might be more than one way to do this, so write them down!
